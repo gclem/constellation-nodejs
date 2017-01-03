@@ -76,8 +76,7 @@ The config process is managed by the fantastic library [node-config]. You can ma
 ** You can also configure the context through init parameters (no config file needed).
 ```javascript
 this.init = function(url, accessKey, applicationName, sdkVersion)
-``
-
+```
 # Contributions
 
 Now it's on https://github.com/myconstellation/constellation-nodejs
